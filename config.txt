@@ -1,5 +1,5 @@
-token=NTQ5MzE1NTEyNzgyNTUzMDk5.D1SGMw.io1xqHPPt2DZ3njly_04TvkXxZs
 owner=467023853848231938
 prefix = *
 stayinchannel=true
-songinstatus=true
+songinstatus=false
+token=NTQ5MzE1NTEyNzgyNTUzMDk5.D1SGMw.io1xqHPPt2DZ3njly_04TvkXxZs
